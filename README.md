@@ -1,2 +1,2 @@
-# docker-cakephp3
-(php-fpm + nginx + postgresql) on docker for CakePHP3 tutorial.
+# cakephp3-tutorial
+(php-fpm + nginx + postgresql) on docker for CakePHP3.6.* tutorial.
